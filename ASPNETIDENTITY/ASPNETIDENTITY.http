@@ -1,0 +1,6 @@
+@ASPNETIDENTITY_HostAddress = http://localhost:5173
+
+GET {{ASPNETIDENTITY_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
